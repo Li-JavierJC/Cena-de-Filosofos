@@ -1,0 +1,99 @@
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.exe
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormCena.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.Properties.Resources.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.GenerateResource.Cache
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.exe
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormAcerca.resources
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.exe
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.exe
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormAcerca.resources
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormCena.resources
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.Properties.Resources.resources
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.GenerateResource.Cache
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.dll
+C:\Documents and Settings\CARVAL\Escritorio\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.exe
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.exe
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.dll
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormAcerca.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormCena.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.Properties.Resources.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.GenerateResource.Cache
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo01.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo02.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo03.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo04.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo05.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.exe
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.exe
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.dll
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.pdb
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormAcerca.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormCena.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo01.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo02.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo03.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo04.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo05.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.Properties.Resources.resources
+D:\Documentos\8.VIII.CICLO\SISTEMAS OPERATIVOS\SS.OO.FILOSOFOS\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.GenerateResource.Cache
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.exe
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.dll
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.pdb
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csprojResolveAssemblyReference.cache
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormAcerca.resources
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormCena.resources
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo01.resources
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo02.resources
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo03.resources
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo04.resources
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo05.resources
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.Properties.Resources.resources
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.GenerateResource.Cache
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.CoreCompileInputs.cache
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.exe
+C:\Users\Yusmar\Desktop\filosofos\SS.OO.FILOSOFOS\[2].SOLUCION.FINAL\SolutionCenaFILOSOFOS\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.exe
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.dll
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.pdb
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csprojAssemblyReference.cache
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormAcerca.resources
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormCena.resources
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo01.resources
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo02.resources
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo03.resources
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo04.resources
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormFilosofo05.resources
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.Properties.Resources.resources
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.CopyComplete
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.exe
+C:\Users\Javier\Documents\Programas\Filosofos\Programa\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.exe
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\bin\Debug\WindowsFormsApplicationCenaFilosofos.pdb
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.dll
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\bin\Debug\ClassLibraryFilosofos.pdb
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csprojAssemblyReference.cache
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.FormCena.resources
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.Properties.Resources.resources
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.csproj.CopyComplete
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.exe
+C:\Users\Javier\Desktop\Programa_SO\Filosofos\WindowsFormsApplicationCenaFilosofos\obj\Debug\WindowsFormsApplicationCenaFilosofos.pdb
